@@ -7,7 +7,7 @@ Email Microservice developed with Spring Boot.
 - Postman Request
 <img src="https://i.postimg.cc/Vvk4cM4F/image.png">
 
-- Email received
+- Received Email
 <img src="https://i.postimg.cc/Hknx7LvP/image.png">
 
 <br/>
